@@ -1,9 +1,9 @@
 ![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/configuration&empty)
 # Application Deployment  (20 %)
 
-**- [x] Understand Deployments and how to perform rolling updates
+- [x] Understand Deployments and how to perform rolling updates
 - [x] Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary)
-- [x] Use the Helm package manager to deploy existing packages**
+- [x] Use the Helm package manager to deploy existing packages
 
 ## Understand Deployments and how to perform rolling updates
 

@@ -1,13 +1,13 @@
 ![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/multi_container&empty)
 # Application Environment, Configuration, and Security  (25%)
 
-**- [x] Discover and use resources that extend Kubernetes (CRD)
+- [x] Discover and use resources that extend Kubernetes (CRD)
 - [x] Understand authentication, authorization, and admission control
 - [x] Understanding and defining resource requirements, limits, and quotas
 - [x] Understand ConfigMaps
 - [x] Create & consume Secrets
 - [x] Understand ServiceAccounts
-- [x] Understand SecurityContexts**
+- [x] Understand SecurityContexts
 
 ## Discover and use resources that extend Kubernetes (CRD)
 
