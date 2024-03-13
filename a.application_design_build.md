@@ -3,10 +3,10 @@
 The first domain in the exam is Application Design and Build having a 20% weight. Before moving on to the next domain make sure that you're fluent with the following. 
 
 
-- [x] Define, build, and modify container images
+**- [x] Define, build, and modify container images
 - [x] Understand Jobs and CronJobs
 - [x] Understand multi-container Pod design patterns (e.g. sidecar, init, and others)
-- [x] Utilize persistent and ephemeral 
+- [x] Utilize persistent and ephemeral **
 
 
 ## Set the context and the namespace.

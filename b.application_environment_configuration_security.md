@@ -1,13 +1,13 @@
 ![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/multi_container&empty)
 # Application Environment, Configuration, and Security  (25%)
 
-- [x] Discover and use resources that extend Kubernetes (CRD)
+**- [x] Discover and use resources that extend Kubernetes (CRD)
 - [x] Understand authentication, authorization, and admission control
 - [x] Understanding and defining resource requirements, limits, and quotas
 - [x] Understand ConfigMaps
 - [x] Create & consume Secrets
 - [x] Understand ServiceAccounts
-- [x] Understand SecurityContexts
+- [x] Understand SecurityContexts**
 
 ## Discover and use resources that extend Kubernetes (CRD)
 
@@ -1003,6 +1003,43 @@ kubectl exec -it nginx -- /bin/sh
 cd /etc/lala
 ls # will show var8 var9
 cat var8 # will show val8
+```
+
+</p>
+</details>
+
+
+### Update pod ubuntu-sleeper to run as Root user and with the SYS_TIME capability.Note: Only make the necessary changes. Do not modify the name of the pod.
+
+
+<details><summary>show</summary>
+<p>
+
+```bash
+kubectl delete po ubuntu-sleeper
+vi  <file-name>.yaml
+```
+
+```YAML
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ubuntu-sleeper
+  namespace: default
+spec:
+  containers:
+  - command:
+    - sleep
+    - "4800"
+    image: ubuntu
+    name: ubuntu-sleeper
+    securityContext:
+      capabilities:
+        add: ["SYS_TIME"]
+```
+
+```bash
+kubectl apply -f <file-name>.yaml
 ```
 
 </p>
