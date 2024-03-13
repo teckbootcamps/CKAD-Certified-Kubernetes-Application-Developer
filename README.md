@@ -20,6 +20,7 @@ Register today and use our exclusive coupon code TECK20 for the CKAD exam to get
 
 ![](assets/voucher-cka.png)
 
+[![GET VOUCHER](assets/butt.png)](https://teckbootcamps.com/linux-foundation-coupons/)
 # CKAD Questions And Responses ( Updated Kubernetes 1.29 )
 ![](assets/kubernetes-1-29.png)
 
@@ -51,8 +52,9 @@ A Quick Reference box will contain helpful links for each exam exercise as well.
 If this repo has helped you in any way, feel free to share !
 
 ## 💬 Author
-* 👨🇹🇳 [Mohamed BEN HASSINE](https://teckbootcamps.com/about-me/)
-* 👨[Linkedin Profile ](https://www.linkedin.com/in/mohamedbnhassine/)
-* ☸☸ 3X certified Kubernetes([CKAD](https://teckbootcamps.com/ckad-exam-study-guide/), [CKA](https://teckbootcamps.com/cka-exam-study-guide//) ,[CKS](https://teckbootcamps.com/cks-exam-study-guide/))
-* ☁️☁️ GCP Solutions Architect ||  [4X certified GCP Cloud](https://www.credential.net/profile/mohamedbenhassine968370/wallet)
-* 👨🏼‍💻👨🏼‍💻 13+ years of experience in the tech
+* 👨 🇹🇳 [Aboute ME : Mohamed BEN HASSINE : ](https://teckbootcamps.com/about-me/)
+* 👨 [Contact ME in LinkedIn ](https://www.linkedin.com/in/mohamedbnhassine/)
+* ☸ ☸ 3X Certified Kubernetes([CKAD](https://teckbootcamps.com/ckad-exam-study-guide/), [CKA](https://teckbootcamps.com/cka-exam-study-guide//) ,[CKS](https://teckbootcamps.com/cks-exam-study-guide/))
+* ☁️ ☁️ Google Cloud Solutions Architect ||  [4X certified GCP Cloud](https://www.credential.net/profile/mohamedbenhassine968370/wallet)
+* 👨🏼‍💻 👨🏼‍💻 14+ years of experience in the tech
+
