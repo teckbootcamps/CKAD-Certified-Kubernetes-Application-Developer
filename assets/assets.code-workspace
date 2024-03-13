@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "."
+		},
+		{
+			"name": "CKAD-Certified-Kubernetes-Application-Developer",
+			"path": "../../CKAD-Certified-Kubernetes-Application-Developer"
+		}
+	],
+	"settings": {}
+}
