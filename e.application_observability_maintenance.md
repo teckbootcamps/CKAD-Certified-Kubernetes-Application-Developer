@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/observability&empty)
 # Application Observability and Maintenance (15%)
 
 - [x] Understand API deprecations
@@ -7,10 +6,9 @@
 - [x] Utilize container logs
 - [x] Debugging in Kubernetes
 
-
 ## Implement probes and health checks
 
-kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)<sup>Kubernetes Documentation</sup>
 
 ### Create an nginx pod with a liveness probe that just runs the command 'ls'. Save its YAML in pod.yaml. Run it, check its probe status, delete it.
 

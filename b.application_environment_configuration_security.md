@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/multi_container&empty)
 # Application Environment, Configuration, and Security  (25%)
 
 - [x] Discover and use resources that extend Kubernetes (CRD)
@@ -124,7 +123,7 @@ kubectl get op
 
 ## Understanding and defining resource requirements, limits, and quotas
 
-kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Assign CPU Resources to Containers and Pods](https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/)
+kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Assign CPU Resources to Containers and Pods](https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/)<sup>Kubernetes Documentation</sup>
 
 ### Create an nginx pod with requests cpu=100m,memory=256Mi and limits cpu=200m,memory=512Mi
 
@@ -164,7 +163,7 @@ status: {}
 </details>
 
 ## Limit Ranges
-kubernetes.io > Documentation > Concepts > Policies > Limit Ranges (https://kubernetes.io/docs/concepts/policy/limit-range/)
+kubernetes.io > Documentation > Concepts > Policies > Limit Ranges (https://kubernetes.io/docs/concepts/policy/limit-range/)<sup>Kubernetes Documentation</sup>
 
 ### Create a namespace named limitrange with a LimitRange that limits pod memory to a max of 500Mi and min of 100Mi
 
@@ -243,7 +242,7 @@ kubectl apply -f 2.yaml
 
 
 ## Resource Quotas
-kubernetes.io > Documentation > Concepts > Policies > Resource Quotas (https://kubernetes.io/docs/concepts/policy/resource-quotas/)
+kubernetes.io > Documentation > Concepts > Policies > Resource Quotas (https://kubernetes.io/docs/concepts/policy/resource-quotas/)<sup>Kubernetes Documentation</sup>
 
 ### Create ResourceQuota in namespace `one` with hard requests `cpu=1`, `memory=1Gi` and hard limits `cpu=2`, `memory=2Gi`.
 
@@ -383,9 +382,9 @@ my-rq   10m   requests.cpu: 500m/1, requests.memory: 3Mi/1Gi   limits.cpu: 1/2, 
 
 ## Understand Secrets
 
-kubernetes.io > Documentation > Concepts > Configuration > [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
+kubernetes.io > Documentation > Concepts > Configuration > [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)<sup>Kubernetes Documentation</sup>
 
-kubernetes.io > Documentation > Tasks > Inject Data Into Applications > [Distribute Credentials Securely Using Secrets](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/)
+kubernetes.io > Documentation > Tasks > Inject Data Into Applications > [Distribute Credentials Securely Using Secrets](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/)<sup>Kubernetes Documentation</sup>
 
 ### Create a secret called mysecret with the values password=mypass
 
@@ -664,7 +663,7 @@ k exec -it $ns consumer -- /bin/sh
 
 ## Understand ServiceAccounts
 
-kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure Service Accounts for Pods](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/)
+kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure Service Accounts for Pods](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account/)<sup>Kubernetes Documentation</sup>
 
 ### See all the service accounts of the cluster in all namespaces
 
@@ -789,7 +788,7 @@ kubectl create token myuser
 
 ## Understand ConfigMaps
 
-kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
+kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)<sup>Kubernetes Documentation</sup>
 
 ### Create a configmap named config with values foo=lala,foo2=lolo
 

@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/pod_design&empty)
 # Services & Networking (20%)
 
 - [x] Demonstrate basic understanding of NetworkPolicies
