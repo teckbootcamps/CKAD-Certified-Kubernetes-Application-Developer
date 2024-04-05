@@ -2,7 +2,6 @@
 
 The first domain in the exam is Application Design and Build having a 20% weight. Before moving on to the next domain make sure that you're fluent with the following. 
 
-
 - [x] Define, build, and modify container images
 - [x] Understand Jobs and CronJobs
 - [x] Understand multi-container Pod design patterns (e.g. sidecar, init, and others)
@@ -16,7 +15,12 @@ A "Context" is a combination of a cluster, user, and namespace. It is a way to s
 
 **Hint:** Don't change the namespace, change the context as per the question. If there is a namespace add -n `namespace` to lessen the risk of error. Set context before each question using the kubectl config command, and switch between contexts using kubectl config use-context. 
 
+
+
+
 ## Define, build, and modify container images
+
+- [Containerd basic Commands and Usage](https://teckbootcamps.com/containerd-basic-commands-and-usage/)<sup>Blog</sup>
 
 **1-)** Create an nginx pod using YAML that runs the command "env" and display the logs.
 
