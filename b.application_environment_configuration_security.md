@@ -10,6 +10,9 @@
 
 ## Discover and use resources that extend Kubernetes (CRD)
 
+- [Complete Practical Example of Kubernetes CRD, Operator & Kubebuilder](https://teckbootcamps.com/complete-practical-example-of-kubernetes-crd-operator-kubebuilder/)<sup>Blog</sup>
+
+
 ### Create a CustomResourceDefinition manifest file for an Operator with the following specifications :
 * *Name* : `operators.stable.example.com`
 * *Group* : `stable.example.com`
@@ -122,6 +125,9 @@ kubectl get op
 
 
 ## Understanding and defining resource requirements, limits, and quotas
+
+- [Complete Practical Example of Kubernetes CRD, Operator & Kubebuilder](https://teckbootcamps.com/complete-practical-example-of-kubernetes-crd-operator-kubebuilder/)<sup>Blog</sup>
+
 
 kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Assign CPU Resources to Containers and Pods](https://kubernetes.io/docs/tasks/configure-pod-container/assign-cpu-resource/)<sup>Kubernetes Documentation</sup>
 
