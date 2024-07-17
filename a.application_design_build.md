@@ -16,8 +16,6 @@ A "Context" is a combination of a cluster, user, and namespace. It is a way to s
 **Hint:** Don't change the namespace, change the context as per the question. If there is a namespace add -n `namespace` to lessen the risk of error. Set context before each question using the kubectl config command, and switch between contexts using kubectl config use-context. 
 
 
-
-
 ## Define, build, and modify container images
 
 - [Containerd basic Commands and Usage](https://teckbootcamps.com/containerd-basic-commands-and-usage/)<sup>Blog</sup>
