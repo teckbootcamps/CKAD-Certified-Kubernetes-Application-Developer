@@ -25,10 +25,10 @@ Register today and use our exclusive coupon code TECK20 for the CKAD exam to get
 
 [![GET VOUCHER](assets/buy-voucher.png)](https://teckbootcamps.com/linux-foundation-coupons/)
 
-# CKAD Questions And Responses ( Updated Kubernetes 1.29 )
+# CKAD Questions And Responses ( Updated Kubernetes 1.30 )
 ![](assets/kubernetes-1-29.png)
 
-A set of exercises based on last Kubernetes version (1.29) that help you prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam.
+A set of exercises based on last Kubernetes version (1.30) that help you prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam.
 
 They may as well serve as learning and practicing with Kubernetes.
 
@@ -37,7 +37,7 @@ A Quick Reference box will contain helpful links for each exam exercise as well.
 
 📚 [GET Kubernetes 1.29 New features (Blog Post): ](https://teckbootcamps.com/an-overview-of-new-features-in-kubernetes-v1-29/) 
 
-## CKAD Exam Syllabus (Kubernetes 1.29) 
+## CKAD Exam Syllabus (Kubernetes 1.30) 
 - [Application Design and Build - 20%](a.application_design_build.md)
 - [Application Environment, Configuration, and Security - 25%](b.application_environment_configuration_security.md)
 - [Services & Networking - 20%](c.services_networking.md)
