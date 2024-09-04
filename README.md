@@ -1,4 +1,4 @@
-# Certified Kubernetes Application Developer (CKAD) Study Guide 2024 ( Updated July 2024)
+# Certified Kubernetes Application Developer (CKAD) Study Guide 2024 ( Updated September 2024)
 
 ![](assets/ckad.png)
 
@@ -23,7 +23,7 @@ Register today and use our exclusive coupon code TECK20 for the CKAD exam to get
 
 ![](assets/voucher-cka.png)
 
-[![GET VOUCHER](assets/buy-voucher.png)](https://teckbootcamps.com/linux-foundation-coupons/)
+[![GET VOUCHER USING COUPON TECK20 ](assets/buy-voucher.png)](https://teckbootcamps.com/go/ckad-exam-2024/)
 
 # CKAD Questions And Responses ( Updated Kubernetes 1.30 )
 ![](assets/kube1.30.png)

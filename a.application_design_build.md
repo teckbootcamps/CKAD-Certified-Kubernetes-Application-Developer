@@ -126,6 +126,8 @@ docker inspect example-voting-app-result | grep -i -C 5 layers
 
 **1. Use a Smaller Base Image:**
 
+- [How to Reduce the size of the Docker Image ?](https://teckbootcamps.com/how-to-reduce-the-size-of-the-docker-image/)<sup>Blog</sup>
+
 Consider using a smaller base image (e.g., Alpine) to reduce the image size at the outset.
 
 *WHY*: Choosing a smaller base image, like Alpine, significantly reduces the initial image size. Smaller base images contain only essential components, minimizing the overall image footprint and speeding up builds.
@@ -449,6 +451,9 @@ spec:
 
 
 ## Understand Jobs and CronJobs
+
+- [Understanding Kubernetes Jobs and CronJobs](https://teckbootcamps.com/understanding-kubernetes-jobs-and-cronjobs/)<sup>Blog</sup>
+
 
 ### Create a job named pi with image perl:5.34 that runs the command with arguments "perl -Mbignum=bpi -wle 'print bpi(2000)'"
 
@@ -981,6 +986,10 @@ kubectl delete po box
 </details>
 
 ## Utilize persistent and ephemeral
+
+- [Understanding Kubernetes Volumes and Configuration Data](https://teckbootcamps.com/understanding-kubernetes-volumes-and-configuration-data/)<sup>Blog</sup>
+
+
 ### Create busybox pod with two containers, each one will have the image busybox and will run the 'sleep 3600' command. Make both containers mount an emptyDir at '/etc/foo'. Connect to the second busybox, write the first column of '/etc/passwd' file to '/etc/foo/passwd'. Connect to the first busybox and write '/etc/foo/passwd' file to standard output. Delete pod.
 
 <details><summary>show</summary>
