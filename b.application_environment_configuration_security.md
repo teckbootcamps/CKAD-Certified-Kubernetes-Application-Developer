@@ -388,9 +388,10 @@ my-rq   10m   requests.cpu: 500m/1, requests.memory: 3Mi/1Gi   limits.cpu: 1/2, 
 
 ## Understand Secrets
 
-kubernetes.io > Documentation > Concepts > Configuration > [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)<sup>Kubernetes Documentation</sup>
+- [Kubernetes Secrets: A complete guide to securely managing sensitive information](https://teckbootcamps.com/kubernetes-secrets-a-complete-guide-to-securely-managing-sensitive-information/)<sup>Blog</sup>
 
-kubernetes.io > Documentation > Tasks > Inject Data Into Applications > [Distribute Credentials Securely Using Secrets](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/)<sup>Kubernetes Documentation</sup>
+- kubernetes.io > Documentation > Concepts > Configuration > [Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)<sup>Kubernetes Documentation</sup>
+
 
 ### Create a secret called mysecret with the values password=mypass
 
@@ -795,6 +796,9 @@ kubectl create token myuser
 ## Understand ConfigMaps
 
 kubernetes.io > Documentation > Tasks > Configure Pods and Containers > [Configure a Pod to Use a ConfigMap](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)<sup>Kubernetes Documentation</sup>
+
+- [Real World Example: Configuring Redis with ConfigMap](https://teckbootcamps.com/real-world-example-configuring-redis-with-configmap/)<sup>Blog</sup>
+
 
 ### Create a configmap named config with values foo=lala,foo2=lolo
 
