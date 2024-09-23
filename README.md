@@ -9,21 +9,12 @@ Not sure where to start? You may consider reviewing our suggested CKAD learning 
 EXAM SIMULATOR! Learners will now have access to an exam simulator, provided by Killer.sh, to experience the exam environment. You will have two exam simulation attempts (36 hours of access for each attempt from the start of activation).
 Simulation includes 20-25 questions (which are exactly the same for every attempt and every user (unlike those found on the actual exams) and graded simulation results).
 
-UPCOMING POLICY CHANGE: Please note that our Certification Period Policy is changing effective April 01, 2024, 00:00UTC. Certifications achieved on or after this date will expire 24 months from the date the program certification requirements, including passing the exam, are met. We encourage anyone interested and prepared to schedule and take your exam before the policy change. Please see additional details here.
 
+# 💰💰 [30% OFF] Kubernetes Certification Coupon CKAD 
 
-# Register for the CKAD Certification [Save 20% Today]
-To begin your journey of becoming a Certified Kubernetes Application Developer (CKAD) – start by registering for the CKAD exam on the Linux Foundation portal. When you register you get free access to two sessions of killer.sh CKAD practice exams that will help you clear the CKAD exam.
+Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
 
-Register today and use our exclusive coupon code TECK20 for the CKAD exam to get a 20% discount on CKAD (and KCNA, CKA, and CKS certifications ). This code "TECK20" expires soon.
-
-- [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)<sup>Github</sup>
-
-💰💰 [GET 20% OFF ON KUBERNETES CKAD VOUCHER $395 --> $316](https://teckbootcamps.com/linux-foundation-coupons/#%f0%9f%94%a5-20-off-kubernetes-certification-coupon-ckad-cka-cks-running-now)<sup>Blog</sup>
-
-![](assets/voucher-cka.png)
-
-[![GET VOUCHER USING COUPON TECK20 ](assets/buy-voucher.png)](https://teckbootcamps.com/go/ckad-exam-2024/)
+-  Kubernetes CKAD VOUCHER ($395 —> $276): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
 
 # CKAD Questions And Responses ( Updated Kubernetes 1.30 )
 ![](assets/kube1.30.png)
@@ -34,8 +25,6 @@ They may as well serve as learning and practicing with Kubernetes.
 
 During the exam, you are only allowed to refer to official documentation from a browser window within the exam VM.
 A Quick Reference box will contain helpful links for each exam exercise as well.
-
-📚 [GET Kubernetes 1.29 New features (Blog Post): ](https://teckbootcamps.com/an-overview-of-new-features-in-kubernetes-v1-29/) 
 
 ## CKAD Exam Syllabus (Kubernetes 1.30) 
 - [Application Design and Build - 20%](a.application_design_build.md)
