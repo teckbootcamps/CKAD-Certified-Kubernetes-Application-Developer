@@ -44,10 +44,4 @@ A Quick Reference box will contain helpful links for each exam exercise as well.
 ## 💬 Share To Your Network
 If this repo has helped you in any way, feel free to share !
 
-## 💬 Author
-* 👨 🇹🇳 [Aboute ME : Mohamed BEN HASSINE](https://teckbootcamps.com/about-me/)<sup>Blog</sup>
-* 👨 [Contact ME in LinkedIn ](https://www.linkedin.com/in/mohamedbnhassine/)<sup>LinkedIn</sup>
-* ☸ ☸ 3X Certified Kubernetes([CKAD](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>, [CKA](https://teckbootcamps.com/cka-exam-study-guide//)<sup>Blog</sup> ,[CKS](https://teckbootcamps.com/cks-exam-study-guide/)<sup>Blog</sup>)
-* ☁️ ☁️ Google Cloud Solutions Architect ||  [4X certified GCP Cloud](https://www.credential.net/profile/mohamedbenhassine968370/wallet)<sup>Certifications</sup>
-* 👨🏼‍💻 👨🏼‍💻 14+ years of experience in the tech
 
