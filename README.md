@@ -36,7 +36,7 @@ A Quick Reference box will contain helpful links for each exam exercise as well.
 
 ## Additional Resources
 * 💬 [Kubernetes Slack Channel #certifications](https://kubernetes.slack.com/)<sup>Slack</sup>
-* 📚 [Mohamed BEN HASSINE: Guide to Kubernetes Application Development](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
+* 📚 Guide to Kubernetes Application Development](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>
 * 🎞️ [KodeKloud: Certified Kubernetes Application Developer (CKAD)](https://kodekloud.com/p/kubernetes-certification-course)<sup>Blog</sup>
 * 🎞️ [Udemy: CKAD Certified Kubernetes Application Developer Crash Course](https://www.udemy.com/course/ckad-certified-kubernetes-application-developer/)<sup>Blog</sup>
 
