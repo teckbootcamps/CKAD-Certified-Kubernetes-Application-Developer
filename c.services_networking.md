@@ -1,8 +1,8 @@
 # Services & Networking (20%)
 
-|[x] | Demonstrate basic understanding of NetworkPolicies|
-|[x] | Provide and troubleshoot access to applications via services|
-|[x] | Use Ingress rules to expose applications|
+- [x] Demonstrate basic understanding of NetworkPolicies
+- [x] Provide and troubleshoot access to applications via services
+- [x] Use Ingress rules to expose applications
 
 ## Provide and troubleshoot access to applications via services
 

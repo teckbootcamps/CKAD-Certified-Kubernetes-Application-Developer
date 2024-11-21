@@ -1,13 +1,13 @@
 # Application Environment, Configuration, and Security  (25%)
 
-|[x] | Discover and use resources that extend Kubernetes (CRD, Operators)|
-|[x] | Understand authentication, authorization and admission control|
-|[x] | Understand requests, limits, quotas|
-|[x] | Understand ConfigMaps|
-|[x] | Define resource requirements|
-|[x] | Create & consume Secrets|
-|[x] | Understand ServiceAccounts|
-|[x] | Understand Application Security (SecurityContexts, Capabilities, etc.)|
+- [x] Discover and use resources that extend Kubernetes (CRD, Operators)
+- [x] Understand authentication, authorization and admission control
+- [x] Understand requests, limits, quotas
+- [x] Understand ConfigMaps
+- [x] Define resource requirements
+- [x] Create & consume Secrets
+- [x] Understand ServiceAccounts
+- [x] Understand Application Security (SecurityContexts, Capabilities, etc.)
 
 ## Discover and use resources that extend Kubernetes (CRD)
 

@@ -1,9 +1,9 @@
 # Application Deployment  (20 %)
 
-|[x] | Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary)|
-|[x] | Understand Deployments and how to perform rolling updates|
-|[x] | Use the Helm package manager to deploy existing packages|
-|[x] | Kustomize|
+- [x] Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary)
+- [x] Understand Deployments and how to perform rolling updates
+- [x] Use the Helm package manager to deploy existing packages
+- [x] Kustomize
 
 ## Understand Deployments and how to perform rolling updates
 
