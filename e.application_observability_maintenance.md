@@ -1,10 +1,10 @@
 # Application Observability and Maintenance (15%)
 
-- [x] Understand API deprecations
-- [x] Implement probes and health checks
-- [x] Use provided tools to monitor Kubernetes applications
-- [x] Utilize container logs
-- [x] Debugging in Kubernetes
+|[x] | Understand API deprecations|
+|[x] | Implement probes and health checks|
+|[x] | Use built-in CLI tools to monitor Kubernetes applications|
+|[x] | Utilize container logs|
+|[x] | Debugging in Kubernetes|
 
 ## Implement probes and health checks
 
