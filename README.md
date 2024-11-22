@@ -4,7 +4,7 @@
 
 The [Certified Kubernetes Application Developer (CKAD) certification](https://www.cncf.io/certification/ckad/) exam certifies that candidates can design, build and deploy cloud-native applications for Kubernetes.
 
-# CKAD Exam details
+## CKAD Exam details
 
 | **CKAD Exam Details**                     | **Information**                                                                                     |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -15,7 +15,7 @@ The [Certified Kubernetes Application Developer (CKAD) certification](https://ww
 | **Exam Cost**                             | $395 USD (GET 30% OFF using Coupon **TECK30**)                                                         |
 
 
-# 💰💰 [30% OFF] Kubernetes Certification Coupon CKAD 
+## 💰💰 [30% OFF] Kubernetes Certification Coupon CKAD 
 
 Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs.
 This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
@@ -25,7 +25,7 @@ This is a limited-time offer for this month. This offer is applicable for CKA, C
 Check latest offers on Kubernetes Exam Coupons : [Kubernetes Vouchers ](https://github.com/teckbootcamps/linux-foundation-coupon)
 
 
-# CKAD Questions And Responses ( Updated Kubernetes 1.31 )
+## CKAD Questions And Responses ( Updated Kubernetes 1.31 ) : On Going
 
 A set of exercises based on last Kubernetes version (1.31) that help you prepare for the [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/) exam.
 
@@ -44,6 +44,17 @@ A Quick Reference box will contain helpful links for each exam exercise as well.
 | [**Application Deployment - 20%**](d.application_deployment.md)               | 1. Use Kubernetes primitives to implement common deployment strategies (e.g., blue/green or canary)<br>2. Understand Deployments and perform rolling updates<br>3. Use Helm package manager to deploy existing packages | 20%          |
 | [**Application Observability and Maintenance - 15%**](e.application_observability_maintenance.md) | 1. Understand API deprecations<br>2. Implement probes and health checks<br>3. Use provided tools to monitor Kubernetes applications<br>4. Utilize container logs<br>5. Debugging in Kubernetes | 15%          |
 
+
+## CKAD Exam Practice Labs
+
+The best way to prepare is to practice a lot! The setups below will provide you with a Kubernetes cluster where you can perform all the required practice. The CKAD exam expects you to solve problems on a live cluster.
+
+> **Note:** CKAD does not include any multiple-choice questions (MCQs). Hands-on practice is essential!
+
+### Recommended Practice Tools
+
+1. [**Killercoda**](https://killercoda.com): An online interactive platform to practice Kubernetes and other DevOps tools in a realistic environment.
+2. [**Minikube**](https://minikube.sigs.k8s.io): A tool that lets you run a Kubernetes cluster locally, ideal for individual practice on your local machine.
 
 
 ## Additional Resources
