@@ -4,6 +4,17 @@
 
 The [Certified Kubernetes Application Developer (CKAD) certification](https://www.cncf.io/certification/ckad/) exam certifies that candidates can design, build and deploy cloud-native applications for Kubernetes.
 
+# CKAD Exam details
+
+| **CKAD Exam Details**                     | **Information**                                                                                     |
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Exam Duration**                         | 2 hours                                                                                            |
+| **Pass Percentage**                       | 66%                                                                                                |
+| **CKAD Exam Kubernetes Version**          | Kubernetes v1.31                                                                                 |
+| **CKAD Validity**                         | 2 Years  |
+| **Exam Cost**                             | $395 USD (GET 30% OFF using Coupon **TECK30**)                                                         |
+
+
 # 💰💰 [30% OFF] Kubernetes Certification Coupon CKAD 
 
 Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs.
@@ -12,6 +23,7 @@ This is a limited-time offer for this month. This offer is applicable for CKA, C
 -  Kubernetes CKAD VOUCHER ($395 —> $276): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
 
 Check latest offers on Kubernetes Exam Coupons : [Kubernetes Vouchers ](https://github.com/teckbootcamps/linux-foundation-coupon)
+
 
 # CKAD Questions And Responses ( Updated Kubernetes 1.31 )
 
