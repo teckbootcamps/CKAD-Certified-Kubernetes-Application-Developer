@@ -8,6 +8,7 @@ The [Certified Kubernetes Application Developer (CKAD) certification](https://ww
 
 | **CKAD Exam Details**                     | **Information**                                                                                     |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Exam Type**                             | Performance based ( NO MCQ )                                                                                            |
 | **Exam Duration**                         | 2 hours                                                                                            |
 | **Pass Percentage**                       | 66%                                                                                                |
 | **CKAD Exam Kubernetes Version**          | Kubernetes v1.31                                                                                 |
