@@ -1,4 +1,4 @@
-# Certified Kubernetes Application Developer (CKAD) Study Guide for November 2024 
+# Certified Kubernetes Application Developer (CKAD) Study Guide for December 2024 
 
 ![](assets/ckad.png)
 
