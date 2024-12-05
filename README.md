@@ -13,16 +13,13 @@ The [Certified Kubernetes Application Developer (CKAD) certification](https://ww
 | **Pass Percentage**                       | 66%                                                                                                |
 | **CKAD Exam Kubernetes Version**          | Kubernetes v1.31                                                                                 |
 | **CKAD Validity**                         | 2 Years  |
-| **Exam Cost**                             | $395 USD (GET 30% OFF using Coupon **TECK30**)                                                         |
+| **Exam Cost**                             | $395 USD (GET 30% OFF using Coupon **TECK30**)  💥INCREASE PRICE:  $434 in January 2025 |
 
 
-## 💰💰 [50% OFF] Kubernetes Certification Coupon CKAD 
+## 💰💰 [30% OFF] Kubernetes Certification Coupon CKAD 
 
-Save 50% using Coupon code **CYBER24CC ** on all the Linux Foundation training and certification programs.
+Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs.
 This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
-
--  Kubernetes CKAD VOUCHER ($395 —> $197): [kube.promo/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
-
 Check latest offers on Kubernetes Exam Coupons : [Kubernetes Vouchers ](https://github.com/teckbootcamps/linux-foundation-coupon)
 
 
