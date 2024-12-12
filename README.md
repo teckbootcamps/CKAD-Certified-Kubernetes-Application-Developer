@@ -1,6 +1,13 @@
 # Certified Kubernetes Application Developer (CKAD) Study Guide for December 2024 
 
-![](assets/ckad.png)
+<p align="center">
+  <img src="assets/ckad.png" alt="CKAD EXAM">
+</p>
+
+> This guide is part of our blog [How to Pass Certified Kubernetes Application Developer (CKAD) 2024 ](https://teckbootcamps.com/ckad-exam-study-guide/).
+
+## Hit the Star! :star:
+> If you are using this repo for guidance, please hit the star. Thanks A lot !
 
 The [Certified Kubernetes Application Developer (CKAD) certification](https://www.cncf.io/certification/ckad/) exam certifies that candidates can design, build and deploy cloud-native applications for Kubernetes.
 
@@ -13,17 +20,15 @@ The [Certified Kubernetes Application Developer (CKAD) certification](https://ww
 | **Pass Percentage**                       | 66%                                                                                                |
 | **CKAD Exam Kubernetes Version**          | Kubernetes v1.31                                                                                 |
 | **CKAD Validity**                         | 2 Years  |
-| **Exam Cost**                             | $395 USD (GET 30% OFF using Coupon **TECK30**)  💥INCREASE PRICE:  $434 in January 2025 |
+| **Exam Cost**                            | $395 USD ([GET 30% OFF CKA Exam Coupon](https://github.com/teckbootcamps/linux-foundation-coupon?tab=readme-ov-file#-30-off-kubernetes-certification-coupon-ckad--cka--cks)) 💥INCREASE PRICE:  $434 in January 2025         |
 
 
+## [30% OFF]  CKAD Exam Coupon
 
-## 💰💰 [30% OFF] Kubernetes Certification Coupon CKAD 
+> [!IMPORTANT]
+>  USE Coupon code **TECK30** at checkout to GET **30% OFF** before January 2025.
 
-Save 30% using Coupon code **TECK30** on all the Linux Foundation training and certification programs. This is a limited-time offer for this month. This offer is applicable for CKA, CKAD, CKS, KCNA, LFCS, PCA FINOPS, NodeJS, CHFA, and all the other certification, training, and BootCamp programs.
-
--  Kubernetes CKAD VOUCHER ($395 —> $276): [teckbootcamps/ckad](https://teckbootcamps.com/go/ckad-exam-2024/)
-
-Check latest offers on Kubernetes Exam Coupons : [Kubernetes Vouchers ](https://github.com/teckbootcamps/linux-foundation-coupon)
+> Kubernetes CKAD VOUCHER ($395 —> $276): [teckbootcamps-30%off/ckaD](https://teckbootcamps.com/go/ckad-exam-2024/)
 
 
 ## CKAD Questions And Responses ( Updated Kubernetes 1.31 ) : On GOING
