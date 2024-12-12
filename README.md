@@ -1,4 +1,4 @@
-# Certified Kubernetes Application Developer (CKAD) Study Guide for December 2024 
+# ☸️  Certified Kubernetes Application Developer (CKAD) Exam Guide - V1.31 (2024)
 
 <p align="center">
   <img src="assets/ckad.png" alt="CKAD EXAM">
