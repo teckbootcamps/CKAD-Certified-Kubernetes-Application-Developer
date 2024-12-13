@@ -1,3 +1,5 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 # ☸️  Certified Kubernetes Application Developer (CKAD) Exam Guide - V1.31 (2024)
 
 <p align="center">
